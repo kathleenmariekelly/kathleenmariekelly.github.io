@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+    <nav>
+    
+      <a href="/" >
+        Home
+      </a>
+    
+      <a href="/publications.html" >
+        Publications
+      </a>
+    
+      <a href="/classes.html" >
+        Classes
+      </a>
+    
+      <a href="/research.html" >
+        Research
+      </a>
+    
+</nav>
+
+    <h1>Kathleen Kelly</h1>
+
+<img src="assets/images/KathleenKelly.jpeg" width="400">
+<br/>
+
+I am a Teaching Associate Professor at the Colorado School of Mines in the Computer Science department.  I am also a PhD Candidate in the same department.  My research focus is Computer Science Education utilizing gamification and generative AI.
+<br/>
+
+CONTACT
+<br/>
+Email: kathleenmariekelly@mines.edu
+<br/>
+Office: CTLM 246E
+<br/>
+ORCID: 0009-0006-7805-289X
+<br/>
+CV: https://docs.google.com/document/d/1q4u4dm_84Uc1afBFS1zQcdN1Z8zlu2hk/edit
+<br/>
+
+<img src="assets/images/cs-mines.jpg" width="400">
+
+</body>
+</html>
+
