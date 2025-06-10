@@ -1,0 +1,18 @@
+#----------------------
+# About section
+
+blurb: <p> I am a Teaching Associate Professor at the Colorado School of Mines in the Computer Science department.  I am also a PhD Candidate in the same department.  My research focus is Computer Science Education utilizing gamification and generative AI.</p>
+
+#----------------------
+# Courses section
+courses:
+  - {title: CSCI 306 Software Engineering}
+  - {title: CSCI 370 Advanced Software Engineering}
+  - {title: CSCI 477 Elements of Games and Game Design}
+  - {title: CSCI 577 Advanced Elements of Games and Game Design}
+#----------------------
+# Contact
+contact-info: <p>Kathleen Kelly<br>Colorado School of Mines<br>Department of Computer Science<br>Golden<br>Colorado<br>United States</p>
+
+contact-links:
+  - {contact-text: Colorado School of Mines, contact-link: "https://www.mines.edu", icon: "favicon.html"}
